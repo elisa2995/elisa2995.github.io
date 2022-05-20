@@ -1,4 +1,9 @@
 theme: jekyll-theme-midnight
 title: Elisa Chiapponi
-description: PhD student in Network Security
+description: > # this means to ignore newlines until "baseurl:"
+  PhD student in Network Security
+email: elisa.chiapponi@eurecom.fr
+baseurl: "/" 
+url: "http://elisa2995.github.io" 
+github_username:  elisa2995
 linkedin_username: elisa-chiapponi
